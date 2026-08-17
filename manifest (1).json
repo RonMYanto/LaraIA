@@ -1,0 +1,16 @@
+{
+  "background_color": "#fe1a1a",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "laraia",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Lara",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "Lara-ia",
+  "description": "Asistente de inteligencia artificial con visión",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
